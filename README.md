@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guido Arzelan</h1>
 <h3 align="center">I'm a full stack Dev 💻 from Argentina 🇦🇷</h3>
 
-- 🔭 I’m currently working on **Mansfield Minera SA<|**
+- 🔭 I’m currently working on **Mansfield Minera SA**
 
 
 <h3 align="left">Languages and Tools:</h3>
